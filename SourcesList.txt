@@ -2,3 +2,8 @@ here we find all python and git links
 
 Github learning link:
 https://www.freecodecamp.org/news/git-and-github-for-beginners/
+
+Git commands 
+
+git add . -----> adds all files to be staged/committed
+git add filename ------> adds only specific filename
