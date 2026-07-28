@@ -1,1 +1,4 @@
 here we find all python and git links
+
+Github learning link:
+https://www.freecodecamp.org/news/git-and-github-for-beginners/
