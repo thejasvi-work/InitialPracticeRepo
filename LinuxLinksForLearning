@@ -1,0 +1,9 @@
+ Free Browser TerminalOpen Killercoda Ubuntu Playground. It gives you a 100% free Linux terminal directly in your web browser with zero installation needed.
+
+ https://killercoda.com/playgrounds/scenario/ubuntu
+
+ 2. The DevOps Linux Cheat Sheet📦 For Git & Docker (Creating Files)mkdir project — Creates a new folder named "project".cd project — Moves your terminal inside that folder.touch Dockerfile — Creates an empty file where you will write Docker instructions.nano Dockerfile — Opens a simple text editor to write your code. (Press Ctrl+O then Enter to save, and Ctrl+X to exit).cat Dockerfile — Displays the contents of your file right on the screen.
+
+  For AWS (Managing Cloud Servers)ssh -i key.pem ubuntu@IP_ADDRESS — Securely logs into a remote AWS Linux server.sudo apt update && sudo apt install docker.io -y — Downloads and installs Docker onto the server.sudo systemctl status docker — Checks if Docker is running properly on the system.df -h — Shows how much hard drive storage space is left on your cloud instance.
+
+  For Kubernetes (Variables & Troubleshooting)export KUBECONFIG=/path/to/config — Sets a temporary system variable pointing to your cluster.echo $KUBECONFIG — Reads and prints out that hidden system variable.history — Shows a list of all the previous commands you have typed so you don't forget them.clear — Wipes the terminal screen clean when it gets cluttered with text.

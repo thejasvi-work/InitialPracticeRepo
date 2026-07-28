@@ -1,0 +1,19 @@
+Aws certified cloud practioner with exam prep
+
+Youtube link - https://www.youtube.com/watch?v=7HKot-brXFE
+
+https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/
+
+----------------------------------------------------------------------------------------------------
+
+
+Step 2: Learn Linux (The Foundation)AWS, Docker, and Kubernetes all run on an operating system called Linux. You must learn how to navigate a computer using text commands instead of clicking icons with a mouse.Where to learn: Watch Linux for Beginners by NetworkChuck.Goal: He explains things with extreme energy and simplicity.
+ You will learn basic commands like how to create files, move folders, and navigate a server.
+
+ 
+ Step 3: Learn Docker (The Game Changer)Once you understand Linux, you are ready for Docker. 
+ Docker is just a tool that packages an application and everything it needs into a single "box" 
+ (called a container) so it runs perfectly on any computer.Where to learn: 
+ Watch Docker for Beginners by TechWorld with Nana.
+ Goal: She uses excellent visual animations to
+  show you exactly how containers work and why the tech industry uses them.
